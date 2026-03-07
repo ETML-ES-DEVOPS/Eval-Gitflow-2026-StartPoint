@@ -61,6 +61,7 @@ git flow init -d
 | Hotfix | Toutes les étapes sont présentes | 4pts |
 | Bugfix | Toutes les étapes sont présentes | 3pts |
 | Release | Toutes les étapes sont présentes | 2pts |
+| feature/discount | Toutes les étapes sont présentes | 1pt |
 | Chronologie des branches | Selon le schéma draw io   | 9pts |
 | Bonnes pratiques de commits (préfixes) | Selon le schéma draw io   | 3pts |
 
